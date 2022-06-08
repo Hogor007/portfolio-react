@@ -84,6 +84,18 @@ export const GlobalStyle = createGlobalStyle`
     background-color: var(--black);
     color: #FFFF;
   }
+  // body::-webkit-scrollbar{
+  //   width: 6px;
+  //   background-color: var(--green-color);
+  // }
+  // body::-webkit-scrollbar-track{
+  //   background-color: var(--blue-color);
+  // }
+
+  // body::-webkit-scrollbar-thumb{
+  //   background-color: var(--pink-color);
+  //   border-radius: 5px;
+  // }
 
   body, input, textarea, button{
     font-family: 'Red Hat Display', sans-serif;

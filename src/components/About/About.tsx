@@ -13,7 +13,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 export function About() {
   return (
-    <Container id="sobre">
+    <Container id="about">
       <div className="about-text">
         <ScrollAnimation animateIn="fadeInLeft">
           <h2>About Me</h2>
